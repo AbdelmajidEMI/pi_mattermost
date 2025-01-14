@@ -1,0 +1,5 @@
+.terraform/
+.terraform.*
+abd.pem
+terraform.tfstate
+terraform.tfstate.backup
